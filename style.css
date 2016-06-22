@@ -1,0 +1,53 @@
+h1 {
+  color: rgb(36, 9, 64) ;
+  font-family: 'Papyrus';
+  font-size: 80px;
+  font-weight: 700;
+}
+
+h2 {
+  color: brown;
+}
+h3 {
+  font-size: 90px;
+  color: rgb(36, 9, 64);
+}
+
+h1, h2, h3 {
+  font-family: 'Papyrus', monospace;
+}
+
+.title {
+  margin-top: 20px;
+}
+
+.main-img {
+  width: 50%;
+  position: center;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    border: 80px solid rgb(36, 9, 1) ;
+  z-index: 0;
+}
+
+ul {
+  list-style: circle;
+}
+.time {
+  color:  brown;
+  font-size: 40px;
+}
+
+li, p {
+  font-size: 18px;
+  margin: 50px;
+  color: rgb(36, 9, 64);
+}
+
+.nav-tabs {
+   text-align:center;
+   float:none;
+   display:inline-block;
+   margin-bottom: 0px;
+}
